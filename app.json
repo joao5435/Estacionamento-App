@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Linkzelda",
+    "slug": "Linkzelda",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.joao1212.Linkzelda"
+    },
+    "web": {
+      "favicon": ""
+    },
+    "extra": {
+      "eas": {
+        "projectId": "47cd8de0-2b91-4a3d-801b-c26002da5571"
+      }
+    }
+  }
+}
